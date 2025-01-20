@@ -63,7 +63,7 @@ body{
 }
 .balloons img:nth-child(6){
     left:56%;
-    animation-delay: 16s;
+    animation-delay: 19s;
     animation-duration: 16s;
     /* bottom: 300px; */
 }
